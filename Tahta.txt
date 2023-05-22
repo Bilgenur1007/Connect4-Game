@@ -1,0 +1,9 @@
+Boş,Boş,Boş,Boş,Boş,Boş,Boş,Mor,Yeşil
+Boş,Boş,Boş,Boş,Boş,Boş,Boş,Yeşil,Mor
+Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş,Yeşil
+Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş
+Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş
+Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş
+Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş
+Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş
+Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş,Boş
